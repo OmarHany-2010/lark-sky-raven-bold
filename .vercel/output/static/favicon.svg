@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#F7F3EC"/>
+  <rect x="1.25" y="1.25" width="29.5" height="29.5" rx="6" fill="none" stroke="#C69234" stroke-width="1.5"/>
+  <!-- 8-pointed Islamic star (two overlapping squares) -->
+  <g transform="translate(16 16)" fill="#9E7324">
+    <rect x="-5.4" y="-5.4" width="10.8" height="10.8" transform="rotate(0)"/>
+    <rect x="-5.4" y="-5.4" width="10.8" height="10.8" transform="rotate(45)"/>
+  </g>
+  <g transform="translate(16 16)" fill="#F7F3EC">
+    <rect x="-2.6" y="-2.6" width="5.2" height="5.2" transform="rotate(0)"/>
+    <rect x="-2.6" y="-2.6" width="5.2" height="5.2" transform="rotate(45)"/>
+  </g>
+  <circle cx="16" cy="16" r="1.35" fill="#C69234"/>
+</svg>

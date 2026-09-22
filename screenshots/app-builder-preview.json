@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mohamed and Rahma",
+      "hasCanvas": true,
+      "bodyTextLen": 897,
+      "bodyTextHash": "8981b0d4300241d8865086fb343c177a7fd3a325d589d28fe0a80cca5e96bd05",
+      "bodyTextPrefix": "M · R TAP THE SEAL TO OPEN THE WEDDING CELEBRATION Mohamed & Rah",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mohamed and Rahma",
+      "hasCanvas": true,
+      "bodyTextLen": 897,
+      "bodyTextHash": "44212acfeea057101ae6cb7e341431c9fed8d221c9c1542c8939d2b7ba1006d2",
+      "bodyTextPrefix": "M · R TAP THE SEAL TO OPEN THE WEDDING CELEBRATION Mohamed & Rah",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
